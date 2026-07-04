@@ -14,7 +14,7 @@ pkg install python3
 
 ### Copy Tools 
 ```
-git clone https://github.com/mapelvader/lacakip.git
+git clone https://github.com/halovilyx/lacakip.git
 cd lacakip
 pip3 install -r requirements.txt
 python3 d.py
